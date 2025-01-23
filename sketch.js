@@ -86,8 +86,8 @@ function draw() {
     for(let x = 0; x < cryingDog.width; x++){
       let index = (x + y * cryingDog.width) * 4
       // cryingDog.pixels[index] = 0
-      // cryingDog.pixels[index + 1] = random(0, 255)
-      cryingDog.pixels[index + 2] = random(0, 255)
+      cryingDog.pixels[index + 1] = random(60, 255)
+      cryingDog.pixels[index + 2] = random(70, 255)
       cryingDog.pixels[index + 3] = 255
     }
   }
