@@ -9,7 +9,6 @@ Workshop 3 task
 <img width="1136" alt="截屏2025-01-20 00 20 56" src="https://github.com/user-attachments/assets/f5d56f0c-38e4-433b-9f73-c2b205363c24" />
 
 - Then I was thinking about change the time for the shapes to create. (big shape draw first and stop, after a few seconds the small shapes also stop)
-
 - Using setInterval and counter (Everything start at the same time and stop at different times)
 - Tried with gif - works fine
 
