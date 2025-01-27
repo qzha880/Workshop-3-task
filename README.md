@@ -4,7 +4,7 @@ Workshop 3 task
 ## Change made and experiments during coding
 <img width="1137" alt="截屏2025-01-19 23 00 21" src="https://github.com/user-attachments/assets/5e9aba9b-d44d-44af-971b-e13777e8b0fb" />
 * I want to make the shapes bigger nerar the edges and smaller shapes for the cat (center) to make the image more clear.
-* * I created different shapes, different sizes
+** I created different shapes, different sizes
 <img width="1136" alt="截屏2025-01-20 00 20 56" src="https://github.com/user-attachments/assets/f5d56f0c-38e4-433b-9f73-c2b205363c24" />
 * Then I was thinking about change the time for the shapes to create. (big shape draw first and stop, after a few seconds the small shapes also stop)
 * * Using setInterval and counter (Everything start at the same time and stop at different times)
