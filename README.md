@@ -13,8 +13,8 @@ Workshop 3 task
 * Tried to change the colour for the gif - not working
 <img width="1139" alt="截屏2025-01-21 00 24 29" src="https://github.com/user-attachments/assets/eac1bf0f-e87e-4e0d-8b3e-f8144dea95ec" />
 * I moved the lines for drawing the gif down to the bottom, and added 'img' infront of 'loadPixels' and 'updatePixels'. Then I was able to give the gif filters.
-* * Changed colour
-* * I noticed that if I change the maximum for the random alpha value, the gif motion will become slower than before.
+* Changed colour
+* I noticed that if I change the maximum for the random alpha value, the gif motion will become slower than before.
   * Also fo gif, when manipulate the level of the pixels, the gif colour will be changed slowly over time.
  
 ### Problems met
