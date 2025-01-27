@@ -8,6 +8,8 @@ Workshop 3 task
 ```
 img = loadImage('images/Sleeping cat.jpg');
 ```
+* I tried to move the image to the center of the canvas, but an extre image was created - Two draw functions for the image, after I delete one of it, it becomes normal. 
+<img width="1140" alt="截屏2025-01-19 22 30 21" src="https://github.com/user-attachments/assets/8085fbbc-6f8c-4058-95a1-aaae99026493" />
 
 
 ### Here is the URL to the webpage for this project: https://qzha880.github.io/Workshop-3-task/
