@@ -21,7 +21,7 @@ Workshop 3 task
 - Also for gif, when manipulate the level of the pixels, the gif colour will be changed slowly over time.
  
 ### Problems met
-<img width="1135" alt="截屏2025-01-19 22 27 27" src="https://github.com/user-attachments/assets/9efe61c8-e459-4759-9a49-bfbcae624399" />
+![Uploading 截屏2025-01-19 22.27.27.png…]()
 - When I tried to draw an image on the canvas, the preview shows that it is loading - then I found out that I wrote 'image = loadImage...' instead of 'img = loadImage...'.
 
 <img width="1140" alt="截屏2025-01-19 22 30 21" src="https://github.com/user-attachments/assets/8085fbbc-6f8c-4058-95a1-aaae99026493" />
