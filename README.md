@@ -2,7 +2,7 @@
 Workshop 3 task
 ## Change made during coding
 * I want to make the shapes bigger nerar the edges and smaller shapes for the cat (center) to make the image more clear.
-* *I created different shapes, different sizes
+* * I created different shapes, different sizes
 * 
 ### Problems met
 * When I tried to draw an image on the canvas, the preview shows that it is loading - then I found out that I wrote 'image = loadImage...' instead of 'img = loadImage...'.
