@@ -4,8 +4,9 @@ Workshop 3 task
 
 ### Problems met
 * When I tried to draw an image on the canvas, the preview shows that it is loading - then I found out that I wrote 'image = loadImage...' instead of 'img = loadImage...'.
+![Uploading 截屏2025-01-19 22.27.27.png…]()
+
 ```
-<img width="1135" alt="截屏2025-01-19 22 27 27" src="https://github.com/user-attachments/assets/62f4bffc-f5b6-4d1d-b3b6-7d680cb71afd" />
 img = loadImage('images/Sleeping cat.jpg')
 ```
 
